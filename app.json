@@ -1,0 +1,12 @@
+{
+  "name": "Shiift",
+  "displayName": "Shiift",
+  "expo": {
+    "name": "Shiift",
+    "slug": "Shiift",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
